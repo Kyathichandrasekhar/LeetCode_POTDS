@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0165-compare-version-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
@@ -86,9 +87,14 @@
 ## Math
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
