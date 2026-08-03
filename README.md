@@ -49,6 +49,7 @@
 | [0100-same-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0538-convert-bst-to-greater-tree) |
@@ -62,6 +63,7 @@
 | [0100-same-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0538-convert-bst-to-greater-tree) |
@@ -75,6 +77,7 @@
 | [0100-same-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0538-convert-bst-to-greater-tree) |
@@ -123,6 +126,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0918-maximum-sum-circular-subarray) |
@@ -161,4 +165,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1406-stone-game-iii) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
