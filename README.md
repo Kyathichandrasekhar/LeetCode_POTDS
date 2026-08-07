@@ -59,6 +59,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0543-diameter-of-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
@@ -88,6 +89,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0538-convert-bst-to-greater-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Hash Table
 |  |
