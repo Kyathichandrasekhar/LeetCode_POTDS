@@ -82,6 +82,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -104,6 +105,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [3310-remove-methods-from-project](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3310-remove-methods-from-project) |
@@ -128,6 +130,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -317,4 +320,12 @@
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
