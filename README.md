@@ -5,6 +5,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0165-compare-version-numbers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -23,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0042-trapping-rain-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
@@ -43,6 +45,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0018-4sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
