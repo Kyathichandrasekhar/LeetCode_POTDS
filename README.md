@@ -32,6 +32,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1563-stone-game-v) |
@@ -171,6 +172,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -199,6 +201,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -322,6 +325,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String Matching
 |  |
