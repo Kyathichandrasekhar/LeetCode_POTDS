@@ -12,6 +12,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0014-longest-common-prefix) |
 | [0165-compare-version-numbers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0165-compare-version-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -24,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0042-trapping-rain-water) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -345,4 +347,8 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
