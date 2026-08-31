@@ -397,6 +397,7 @@
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0092-reverse-linked-list-ii) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Quickselect
 |  |
 | ------- |
