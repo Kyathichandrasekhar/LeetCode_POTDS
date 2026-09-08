@@ -50,6 +50,7 @@
 | [1563-stone-game-v](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2029-stone-game-ix) |
+| [2057-smallest-index-with-equal-value](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
