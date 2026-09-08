@@ -224,6 +224,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0877-stone-game) |
+| [1017-convert-to-base-2](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1017-convert-to-base-2) |
 | [1140-stone-game-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1510-stone-game-iv) |
