@@ -231,6 +231,7 @@
 | [1927-sum-game](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2029-stone-game-ix) |
 | [2413-smallest-even-multiple](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2413-smallest-even-multiple) |
+| [2652-sum-multiples](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
