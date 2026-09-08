@@ -230,6 +230,7 @@
 | [1872-stone-game-viii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2029-stone-game-ix) |
+| [2843-count-symmetric-integers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -334,6 +335,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2843-count-symmetric-integers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
