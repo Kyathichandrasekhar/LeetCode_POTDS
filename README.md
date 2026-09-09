@@ -53,6 +53,7 @@
 | [2057-smallest-index-with-equal-value](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -363,6 +364,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1872-stone-game-viii) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3903-smallest-stable-index-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3904-smallest-stable-index-ii) |
 ## Nim Game
@@ -445,6 +447,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prime Factorization
 |  |
