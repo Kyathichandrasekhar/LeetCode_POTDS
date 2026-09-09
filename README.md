@@ -58,6 +58,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2643-row-with-maximum-ones](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2643-row-with-maximum-ones) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -452,6 +453,7 @@
 |  |
 | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2643-row-with-maximum-ones](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2643-row-with-maximum-ones) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prime Factorization
 |  |
