@@ -47,6 +47,7 @@
 | [1184-distance-between-bus-stops](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1184-distance-between-bus-stops) |
 | [1386-cinema-seat-allocation](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1406-stone-game-iii) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1563-stone-game-v) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
