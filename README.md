@@ -17,6 +17,7 @@
 | [0115-distinct-subsequences](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0165-compare-version-numbers) |
 | [0940-distinct-subsequences-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0940-distinct-subsequences-ii) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1927-sum-game](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -48,6 +49,7 @@
 | [1406-stone-game-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1563-stone-game-v) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1872-stone-game-viii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2029-stone-game-ix) |
 | [2057-smallest-index-with-equal-value](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2057-smallest-index-with-equal-value) |
