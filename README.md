@@ -131,6 +131,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -180,6 +182,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
