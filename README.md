@@ -153,6 +153,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -196,6 +197,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting Sort
@@ -360,6 +362,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
@@ -455,6 +458,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0547-number-of-provinces) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Design
 |  |
