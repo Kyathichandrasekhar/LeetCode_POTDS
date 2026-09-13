@@ -42,6 +42,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0896-monotonic-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0918-maximum-sum-circular-subarray) |
@@ -466,6 +467,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0835-image-overlap) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2643-row-with-maximum-ones](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2643-row-with-maximum-ones) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
