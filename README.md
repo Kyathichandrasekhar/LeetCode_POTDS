@@ -48,6 +48,7 @@
 | [0877-stone-game](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0896-monotonic-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0918-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1140-stone-game-ii) |
@@ -206,6 +207,7 @@
 | [0200-number-of-islands](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -486,6 +488,7 @@
 | [0200-number-of-islands](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1020-number-of-enclaves) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2643-row-with-maximum-ones](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2643-row-with-maximum-ones) |
