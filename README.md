@@ -250,6 +250,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0877-stone-game) |
 | [1017-convert-to-base-2](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1017-convert-to-base-2) |
 | [1140-stone-game-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1140-stone-game-ii) |
@@ -488,4 +489,8 @@
 |  |
 | ------- |
 | [1362-closest-divisors](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1362-closest-divisors) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
