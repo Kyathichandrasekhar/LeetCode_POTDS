@@ -49,6 +49,7 @@
 | [0896-monotonic-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0896-monotonic-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1140-stone-game-ii) |
 | [1184-distance-between-bus-stops](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1184-distance-between-bus-stops) |
 | [1386-cinema-seat-allocation](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1386-cinema-seat-allocation) |
@@ -160,6 +161,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0733-flood-fill](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3310-remove-methods-from-project) |
@@ -204,6 +206,7 @@
 | [0200-number-of-islands](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting Sort
@@ -467,6 +470,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Design
 |  |
@@ -482,6 +486,7 @@
 | [0200-number-of-islands](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0835-image-overlap) |
+| [1020-number-of-enclaves](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1020-number-of-enclaves) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2643-row-with-maximum-ones](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2643-row-with-maximum-ones) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
