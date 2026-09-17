@@ -43,6 +43,7 @@
 | [0054-spiral-matrix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
@@ -313,6 +314,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0542-01-matrix) |
