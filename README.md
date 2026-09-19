@@ -291,6 +291,7 @@
 | [1017-convert-to-base-2](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1017-convert-to-base-2) |
 | [1140-stone-game-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1140-stone-game-ii) |
 | [1362-closest-divisors](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1362-closest-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1563-stone-game-v) |
@@ -550,6 +551,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Quicksort
 |  |
 | ------- |
