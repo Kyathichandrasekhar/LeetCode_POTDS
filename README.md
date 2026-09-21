@@ -186,6 +186,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0733-flood-fill](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -235,6 +236,7 @@
 | [0542-01-matrix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3310-remove-methods-from-project) |
@@ -423,6 +425,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0785-is-graph-bipartite) |
 | [3310-remove-methods-from-project](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
@@ -525,6 +528,7 @@
 | [0130-surrounded-regions](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Design
@@ -568,4 +572,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0075-sort-colors) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
