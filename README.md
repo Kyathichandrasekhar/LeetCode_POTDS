@@ -75,6 +75,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1872-stone-game-viii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2029-stone-game-ix) |
@@ -266,6 +267,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
@@ -277,6 +279,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -452,6 +455,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1872-stone-game-viii) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3903-smallest-stable-index-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3903-smallest-stable-index-i) |
@@ -469,6 +473,7 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
