@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0165-compare-version-numbers) |
@@ -275,6 +276,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0454-4sum-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0454-4sum-ii) |
@@ -297,6 +299,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0836-rectangle-overlap) |
