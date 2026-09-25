@@ -61,6 +61,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0454-4sum-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
+| [0525-contiguous-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0733-flood-fill) |
@@ -286,6 +287,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0454-4sum-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0454-4sum-ii) |
+| [0525-contiguous-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0560-subarray-sum-equals-k) |
 | [1096-brace-expansion-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1386-cinema-seat-allocation) |
@@ -469,6 +471,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
