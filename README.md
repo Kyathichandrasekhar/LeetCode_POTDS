@@ -64,6 +64,7 @@
 | [0525-contiguous-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0560-subarray-sum-equals-k) |
+| [0630-course-schedule-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0630-course-schedule-iii) |
 | [0733-flood-fill](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0877-stone-game) |
@@ -116,6 +117,7 @@
 | [0018-4sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0630-course-schedule-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0630-course-schedule-iii) |
 | [1096-brace-expansion-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0630-course-schedule-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0630-course-schedule-iii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Stack
@@ -355,6 +358,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0630-course-schedule-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0630-course-schedule-iii) |
 | [1386-cinema-seat-allocation](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1927-sum-game) |
