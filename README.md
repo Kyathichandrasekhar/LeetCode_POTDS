@@ -24,6 +24,7 @@
 | [0165-compare-version-numbers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0165-compare-version-numbers) |
 | [0940-distinct-subsequences-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -148,6 +149,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -637,4 +639,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0207-course-schedule) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
