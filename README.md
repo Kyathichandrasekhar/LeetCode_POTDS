@@ -332,6 +332,7 @@
 | [0012-integer-to-roman](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0048-rotate-image) |
+| [0233-number-of-digit-one](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0877-stone-game) |
@@ -392,6 +393,7 @@
 | [0118-pascals-triangle](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0233-number-of-digit-one](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0877-stone-game) |
@@ -432,6 +434,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
