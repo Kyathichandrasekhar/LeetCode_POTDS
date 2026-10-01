@@ -20,6 +20,7 @@
 | [0012-integer-to-roman](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0165-compare-version-numbers) |
 | [0940-distinct-subsequences-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0940-distinct-subsequences-ii) |
@@ -145,6 +146,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0144-binary-tree-preorder-traversal) |
@@ -652,6 +654,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
