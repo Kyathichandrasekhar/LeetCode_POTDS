@@ -350,6 +350,7 @@
 | [0012-integer-to-roman](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0836-rectangle-overlap) |
@@ -411,6 +412,7 @@
 | [0022-generate-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0119-pascals-triangle-ii) |
@@ -687,4 +689,8 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
