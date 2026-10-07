@@ -1,23 +1,16 @@
 class Solution {
-    public int helper(int n,int[] dp){
-         if(n==1){
-            return 1;
-        }
-
-         if(n==2){
-            return 2;
-        }
-
-        if(dp[n]!=-1){
-            return dp[n];
-        }
-
-        return dp[n] = helper(n-1,dp)+helper(n-2,dp);
-    }
     public int climbStairs(int n) {
-        //memoization => recurion + dp
-        int[] dp = new int[n+1];
-        Arrays.fill(dp,-1);
-        return helper(n,dp);
+        if(n==1) return 1;
+        
+        if(n==2) return 2;
+
+        int[] a =  new int[n];
+        a[0]=1;
+        a[1]=2;
+
+        for(int i=2;i<n;i++){
+            a[i]=a[i-1]+a[i-2];
+        }
+        return a[n-1];
     }
 }
