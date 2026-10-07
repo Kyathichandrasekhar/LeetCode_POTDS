@@ -80,6 +80,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0560-subarray-sum-equals-k) |
 | [0630-course-schedule-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0630-course-schedule-iii) |
 | [0733-flood-fill](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0896-monotonic-array) |
@@ -421,6 +422,7 @@
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0940-distinct-subsequences-ii) |
