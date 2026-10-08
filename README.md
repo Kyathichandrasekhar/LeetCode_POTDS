@@ -77,6 +77,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0349-intersection-of-two-arrays) |
+| [0403-frog-jump](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0403-frog-jump) |
 | [0454-4sum-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0525-contiguous-array) |
@@ -429,6 +430,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0233-number-of-digit-one](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0233-number-of-digit-one) |
+| [0403-frog-jump](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0678-valid-parenthesis-string) |
