@@ -26,6 +26,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0165-compare-version-numbers) |
+| [0205-isomorphic-strings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0678-valid-parenthesis-string) |
@@ -333,6 +334,7 @@
 | [0013-roman-to-integer](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0205-isomorphic-strings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0349-intersection-of-two-arrays) |
