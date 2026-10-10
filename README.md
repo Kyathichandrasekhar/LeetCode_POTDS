@@ -28,6 +28,7 @@
 | [0165-compare-version-numbers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0856-score-of-parentheses) |
@@ -341,6 +342,7 @@
 | [0205-isomorphic-strings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0525-contiguous-array) |
