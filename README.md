@@ -30,6 +30,7 @@
 | [0242-valid-anagram](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0301-remove-invalid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -304,6 +305,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -344,6 +346,7 @@
 | [0242-valid-anagram](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0560-subarray-sum-equals-k) |
@@ -479,6 +482,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
