@@ -84,6 +84,7 @@
 | [0213-house-robber-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0349-intersection-of-two-arrays) |
 | [0403-frog-jump](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0403-frog-jump) |
 | [0454-4sum-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0454-4sum-ii) |
@@ -153,6 +154,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0349-intersection-of-two-arrays) |
 | [0630-course-schedule-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0630-course-schedule-iii) |
 | [1096-brace-expansion-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1096-brace-expansion-ii) |
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0347-top-k-frequent-elements) |
 | [0630-course-schedule-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0630-course-schedule-iii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -312,6 +315,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -353,6 +357,7 @@
 | [0217-contains-duplicate](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0454-4sum-ii) |
@@ -488,6 +493,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0918-maximum-sum-circular-subarray) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 ## Queue
@@ -652,6 +658,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0347-top-k-frequent-elements) |
 ## Union-Find
 |  |
 | ------- |
@@ -740,4 +747,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1137-n-th-tribonacci-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
