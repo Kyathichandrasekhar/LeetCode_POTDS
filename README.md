@@ -24,6 +24,7 @@
 | [0020-valid-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0205-isomorphic-strings) |
@@ -67,6 +68,7 @@
 | [0018-4sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0074-search-a-2d-matrix) |
@@ -146,6 +148,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0217-contains-duplicate) |
@@ -343,6 +346,7 @@
 | [0001-two-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0205-isomorphic-strings) |
