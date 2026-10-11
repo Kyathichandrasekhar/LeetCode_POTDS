@@ -75,6 +75,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0200-number-of-islands) |
@@ -445,6 +446,7 @@
 | [0115-distinct-subsequences](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0213-house-robber-ii) |
