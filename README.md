@@ -90,6 +90,7 @@
 | [0403-frog-jump](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0403-frog-jump) |
 | [0454-4sum-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0560-subarray-sum-equals-k) |
@@ -374,6 +375,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0454-4sum-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -409,6 +411,7 @@
 | [0070-climbing-stairs](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0877-stone-game) |
 | [1017-convert-to-base-2](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1017-convert-to-base-2) |
@@ -606,6 +609,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -797,4 +801,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
