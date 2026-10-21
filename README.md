@@ -81,6 +81,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0200-number-of-islands) |
@@ -376,6 +377,7 @@
 | [0049-group-anagrams](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0242-valid-anagram) |
@@ -714,6 +716,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0547-number-of-provinces) |
