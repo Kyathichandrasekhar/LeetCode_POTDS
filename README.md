@@ -71,6 +71,7 @@
 | [0042-trapping-rain-water](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0073-set-matrix-zeroes) |
@@ -498,6 +499,7 @@
 | [0022-generate-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0070-climbing-stairs) |
@@ -543,6 +545,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0215-kth-largest-element-in-an-array) |
