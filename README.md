@@ -67,6 +67,7 @@
 | [0014-longest-common-prefix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0049-group-anagrams) |
@@ -374,6 +375,7 @@
 | [0001-two-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -735,6 +737,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0063-unique-paths-ii) |
