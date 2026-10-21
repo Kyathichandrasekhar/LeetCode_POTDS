@@ -91,6 +91,7 @@
 | [0217-contains-duplicate](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0403-frog-jump) |
 | [0454-4sum-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
@@ -386,6 +387,7 @@
 | [0290-word-pattern](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0523-continuous-subarray-sum) |
@@ -423,6 +425,7 @@
 | [0062-unique-paths](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0233-number-of-digit-one) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0836-rectangle-overlap) |
@@ -729,6 +732,7 @@
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -827,4 +831,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0523-continuous-subarray-sum) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
