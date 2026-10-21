@@ -381,6 +381,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0242-valid-anagram) |
@@ -712,6 +713,7 @@
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0146-lru-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Quickselect
 |  |
@@ -732,6 +734,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -835,4 +838,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0380-insert-delete-getrandom-o1) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
