@@ -7,6 +7,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0125-valid-palindrome) |
@@ -70,6 +71,7 @@
 | [0014-longest-common-prefix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0048-rotate-image) |
