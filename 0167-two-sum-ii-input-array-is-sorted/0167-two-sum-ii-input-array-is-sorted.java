@@ -12,10 +12,8 @@ class Solution {
             }
 
             if(sum<target){
-                sum = sum - numbers[l];
                 l++;
             }else{
-                sum = sum - numbers[r];
                 r--;
             }
         }
