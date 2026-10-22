@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0349-intersection-of-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -87,6 +88,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0130-surrounded-regions) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0213-house-robber-ii) |
@@ -356,6 +358,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0349-intersection-of-two-arrays) |
