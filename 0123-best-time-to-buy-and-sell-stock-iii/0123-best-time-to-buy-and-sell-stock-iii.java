@@ -3,17 +3,7 @@ class Solution {
 
         int n = prices.length;
 
-        // dp[i][buy][cap]
         int[][][] dp = new int[n + 1][2][3];
-
-        /*
-         Base cases:
-
-         dp[n][buy][cap] = 0
-         dp[i][buy][0] = 0
-
-         Already initialized to 0 by Java.
-        */
 
         for (int i = n - 1; i >= 0; i--) {
 
