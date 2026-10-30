@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0977-squares-of-a-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -124,6 +125,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1020-number-of-enclaves) |
@@ -197,6 +199,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0349-intersection-of-two-arrays) |
 | [0630-course-schedule-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0630-course-schedule-iii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
