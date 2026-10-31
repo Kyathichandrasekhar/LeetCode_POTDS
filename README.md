@@ -18,6 +18,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0977-squares-of-a-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -42,6 +43,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0940-distinct-subsequences-ii) |
@@ -242,6 +244,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -757,6 +760,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
