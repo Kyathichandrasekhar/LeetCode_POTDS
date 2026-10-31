@@ -17,6 +17,7 @@
 | [0165-compare-version-numbers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0977-squares-of-a-sorted-array) |
@@ -112,6 +113,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0380-insert-delete-getrandom-o1) |
@@ -396,6 +398,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -739,6 +742,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1386-cinema-seat-allocation) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -898,6 +902,7 @@
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0523-continuous-subarray-sum) |
 ## Randomized
 |  |
@@ -911,4 +916,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
