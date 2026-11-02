@@ -120,6 +120,7 @@
 | [0403-frog-jump](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0403-frog-jump) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0454-4sum-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0525-contiguous-array) |
@@ -209,6 +210,7 @@
 | [0242-valid-anagram](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0630-course-schedule-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0630-course-schedule-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1096-brace-expansion-ii) |
@@ -474,6 +476,7 @@
 | [0233-number-of-digit-one](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0233-number-of-digit-one) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0836-rectangle-overlap) |
