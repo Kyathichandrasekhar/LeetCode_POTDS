@@ -127,6 +127,7 @@
 | [0542-01-matrix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0560-subarray-sum-equals-k) |
 | [0630-course-schedule-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0630-course-schedule-iii) |
+| [0643-maximum-average-subarray-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0835-image-overlap) |
@@ -722,6 +723,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
