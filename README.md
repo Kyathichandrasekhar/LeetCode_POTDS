@@ -22,6 +22,7 @@
 | [0844-backspace-string-compare](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -146,6 +147,7 @@
 | [1140-stone-game-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1140-stone-game-ii) |
 | [1184-distance-between-bus-stops](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1184-distance-between-bus-stops) |
 | [1254-number-of-closed-islands](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -223,6 +225,7 @@
 | [0881-boats-to-save-people](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -421,6 +424,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
