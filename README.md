@@ -147,6 +147,7 @@
 | [1140-stone-game-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1140-stone-game-ii) |
 | [1184-distance-between-bus-stops](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1184-distance-between-bus-stops) |
 | [1254-number-of-closed-islands](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1406-stone-game-iii) |
@@ -338,6 +339,7 @@
 | [1020-number-of-enclaves](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1254-number-of-closed-islands](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -396,6 +398,7 @@
 | [1020-number-of-enclaves](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -404,6 +407,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -829,6 +833,7 @@
 | [0785-is-graph-bipartite](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -860,6 +865,7 @@
 | [0994-rotting-oranges](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1267-count-servers-that-communicate) |
 | [1463-cherry-pickup-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1463-cherry-pickup-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2428-maximum-sum-of-an-hourglass) |
