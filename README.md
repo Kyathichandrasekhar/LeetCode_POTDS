@@ -184,6 +184,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
