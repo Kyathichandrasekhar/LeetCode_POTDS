@@ -208,6 +208,7 @@
 | [3731-find-missing-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -420,6 +421,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -497,6 +499,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3731-find-missing-elements) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Math
 |  |
 | ------- |
@@ -773,6 +776,7 @@
 | [3364-minimum-positive-sum-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3859-count-subarrays-with-k-distinct-integers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3859-count-subarrays-with-k-distinct-integers) |
 ## Segment Tree
 |  |
 | ------- |
