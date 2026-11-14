@@ -142,6 +142,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0994-rotting-oranges) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1140-stone-game-ii) |
@@ -658,6 +659,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0918-maximum-sum-circular-subarray) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
@@ -741,6 +743,7 @@
 | [0525-contiguous-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1140-stone-game-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -764,6 +767,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0643-maximum-average-subarray-i) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -806,6 +810,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0287-find-the-duplicate-number) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1386-cinema-seat-allocation](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1386-cinema-seat-allocation) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -990,4 +995,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0881-boats-to-save-people) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
