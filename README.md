@@ -179,6 +179,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2643-row-with-maximum-ones](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2643-row-with-maximum-ones) |
 | [2747-count-zero-request-servers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2747-count-zero-request-servers) |
@@ -245,6 +246,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2747-count-zero-request-servers) |
 | [2785-sort-vowels-in-a-string](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2785-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -583,6 +585,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
