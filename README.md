@@ -155,6 +155,7 @@
 | [1184-distance-between-bus-stops](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1184-distance-between-bus-stops) |
 | [1254-number-of-closed-islands](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1406-stone-game-iii) |
@@ -535,6 +536,7 @@
 | [1017-convert-to-base-2](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1017-convert-to-base-2) |
 | [1137-n-th-tribonacci-number](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1362-closest-divisors](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1362-closest-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1406-stone-game-iii) |
@@ -765,6 +767,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1140-stone-game-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -893,10 +896,12 @@
 | [0146-lru-cache](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/1352-product-of-the-last-k-numbers) |
 ## Matrix
 |  |
 | ------- |
