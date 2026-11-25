@@ -228,6 +228,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sorting
 |  |
@@ -466,6 +467,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -518,6 +520,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3731-find-missing-elements) |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3859-count-subarrays-with-k-distinct-integers) |
+| [3934-smallest-unique-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -857,6 +860,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3934-smallest-unique-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -1031,4 +1035,12 @@
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Kyathichandrasekhar/LeetCode_POTDS/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
